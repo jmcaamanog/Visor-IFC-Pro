@@ -1,2 +1,32 @@
-# Visor-IFC-Pro
-(Arquitecto Técnico_JMC) Visor IFC Pro es una herramienta de escritorio para la auditoría, visualización 3D y edición bidireccional de modelos BIM. Diseñada para la gestión de datos en el sector AECO. Extrae geometría y edita parámetros (Property Sets) y estima costes de forma automatica. Incluye dashboards interactivos y exportación a Excel y CSV.
+# Visor IFC Pro 🏢🔍
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![BIM](https://img.shields.io/badge/BIM-IFC-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+(Arquitecto Técnico_JMC) Herramienta de escritorio avanzada para la auditoría, visualización 3D y edición bidireccional de modelos BIM en formato IFC. Diseñada desde la trinchera para agilizar el trabajo de perfiles técnicos en el sector AECO.
+
+## 🚀 Características Principales
+
+* **Árbol de Proyecto Estructurado:** Navegación jerárquica fluida por todos los elementos constructivos del modelo IFC.
+* **Visor 3D Integrado:** Renderizado del modelo completo o de elementos aislados, incluyendo modos de aislamiento y transparencia.
+* **Edición Bidireccional:** Capacidad de lectura y modificación de parámetros (Property Sets) con guardado directo en un nuevo archivo IFC modificado.
+* **Dashboards Analíticos:** Cálculo automático de áreas, volúmenes, recuento de elementos y estimación de costes, visualizados mediante gráficos integrados.
+* **Exportación Profesional:** Generación de resúmenes de datos en formato CSV y volcado de informes completos tabulados a Excel (`.xlsx`).
+* **Búsqueda Avanzada:** Filtrado de elementos por nombre, ID, tipo IFC o propiedades específicas.
+
+## 🛠️ Stack Tecnológico
+
+El proyecto está construido con herramientas potentes y optimizadas para el manejo de datos BIM y renderizado 3D:
+
+* **IfcOpenShell:** Motor principal para la lectura de la estructura IFC, extracción de Psets y edición directa de atributos.
+* **Vedo:** Librería encargada de la renderización y visualización 3D de la geometría de los elementos.
+* **ttkbootstrap:** Chasis de la interfaz gráfica, proporcionando un aspecto moderno y profesional.
+* **Matplotlib & Pandas:** Cerebro analítico para el procesamiento de recuentos y generación de gráficos (barras y anillos).
+* **Openpyxl:** Pasarela para empaquetar los datos estructurados e imágenes gráficas en informes Excel formateados.
+
+## ⚙️ Requisitos e Instalación
+
+1. Clona este repositorio:
+   ```bash
+   git clone [https://github.com/TU_USUARIO/visor-ifc-pro.git](https://github.com/TU_USUARIO/visor-ifc-pro.git)
