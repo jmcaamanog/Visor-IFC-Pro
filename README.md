@@ -30,3 +30,21 @@ El proyecto está construido con herramientas potentes y optimizadas para el man
 1. Clona este repositorio:
    ```bash
    git clone [https://github.com/TU_USUARIO/visor-ifc-pro.git](https://github.com/TU_USUARIO/visor-ifc-pro.git)
+   
+2. Navega al directorio del proyecto:
+   ```bash
+   pip install ifcopenshell vedo matplotlib pandas openpyxl ttkbootstrap Pillow numpy
+
+3. Ejecuta la aplicación:
+    ```bash
+    python visor_ifc_final.py
+
+    👨‍💻 Autor
+Jose Manuel Caamaño González | Arquitecto Técnico & BIM Manager.
+Digital Product Lead | ConTech & Digital Twin SaaS | BIM, Energy Modeling & Sustainability | Data Analytics (SQL, Power BI)
+
+Hecho con código y café desde A Coruña. ☕
+
+Jose Manuel Caamaño González | [LinkedIn](https://www.linkedin.com/in/jmcaamanog/)
+
+Acuérdate de cambiar `TU_USUARIO` en el bloque de instalación por el tuyo de GitHub. Pégalo en tu VS Code, haz el "Commit" y "Sync Changes" que te comenté antes, y lo tendrás brillando en la web en cuestión de segundos. ¡Dale caña!
