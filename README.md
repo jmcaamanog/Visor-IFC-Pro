@@ -39,7 +39,9 @@ El proyecto está construido con herramientas potentes y optimizadas para el man
     ```bash
     python visor_ifc_final.py
 
-    👨‍💻 Autor
+
+##👨‍💻 Autor
+
 Jose Manuel Caamaño González | Arquitecto Técnico & BIM Manager.
 Digital Product Lead | ConTech & Digital Twin SaaS | BIM, Energy Modeling & Sustainability | Data Analytics (SQL, Power BI)
 
