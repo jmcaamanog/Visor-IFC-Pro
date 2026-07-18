@@ -1,8 +1,15 @@
 # Visor IFC Pro 🏢🔍
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![BIM](https://img.shields.io/badge/BIM-IFC-success.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Role](https://img.shields.io/badge/Role-BIM%20%26%20ConTech-007ACC?logo=bim360&style=flat-square)
+![Location](https://img.shields.io/badge/Location-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=flat-square)
+![Sector](https://img.shields.io/badge/Sector-ConTech%20%7C%20AECO-E65100?logo=construct3&style=flat-square)
+![BIM](https://img.shields.io/badge/BIM-IFC%20%2F%20openBIM-009688?style=flat-square)
+![Maker](https://img.shields.io/badge/Maker-Software-red?logo=makerbot&style=flat-square)
+![Hardware](https://img.shields.io/badge/Hardware---grey?style=flat-square)
+![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Stars](https://img.shields.io/github/stars/jmcaamanog/Visor-IFC-Pro?style=flat-square&color=yellow&logo=github)
+![License](https://img.shields.io/github/license/jmcaamanog/Visor-IFC-Pro?style=flat-square&color=green)
 
 (Arquitecto Técnico_JMC) Herramienta de escritorio avanzada para la auditoría, visualización 3D y edición bidireccional de modelos BIM en formato IFC. Diseñada desde la trinchera para agilizar el trabajo de perfiles técnicos en el sector AECO.
 
